@@ -15,12 +15,12 @@
     "url": "https://github.com/icehaunter/vue3-datepicker/issues"
   },
   "private": false,
-  "name": "vue3-datepicker",
+  "name": "@xquick-code/vue3-datepicker",
   "version": "0.1.0",
   "publishConfig": {
     "access": "public"
   },
-  "description": "A simple Vue 3 datepicker component. Supports disabling of dates, translations. Dependent on date-fns.",
+  "description": "Fork of a simple Vue 3 datepicker component. Uses <teleport> feature",
   "keywords": [
     "vue",
     "vue 3",
